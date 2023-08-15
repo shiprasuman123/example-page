@@ -1,5 +1,5 @@
 # example-page
-This is a page for 
+This is a page for:
 -zan
 -mahmoud
 -katie
